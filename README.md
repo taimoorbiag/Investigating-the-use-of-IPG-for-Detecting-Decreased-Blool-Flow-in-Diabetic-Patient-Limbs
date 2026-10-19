@@ -1,1 +1,2 @@
 # Investigating-the-use-of-IPG-for-Detecting-Decreased-Blool-Flow-in-Diabetic-Patient-Limbs
+The method of impedance plethysmography (IPG): A non-invasive medical procedure called impedance plethysmography uses differences in electrical impedance to determine changes in blood volume within bodily tissues. It entails monitoring variations in voltage brought on by blood flow while running a tiny, harmless electrical current through the body. It is frequently used to monitor cardiovascular health, detect blood clots, and evaluate circulation.
